@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		7D37CE8921B367EE00ADDDA7 /* adventofcode1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = adventofcode1; sourceTree = BUILT_PRODUCTS_DIR; };
+		7D37CE8921B367EE00ADDDA7 /* AoC-2018-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "AoC-2018-1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D37CE8C21B367EE00ADDDA7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		7D37CE8A21B367EE00ADDDA7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7D37CE8921B367EE00ADDDA7 /* adventofcode1 */,
+				7D37CE8921B367EE00ADDDA7 /* AoC-2018-1 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7D37CE8821B367EE00ADDDA7 /* adventofcode1 */ = {
+		7D37CE8821B367EE00ADDDA7 /* AoC-2018-1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7D37CE9021B367EE00ADDDA7 /* Build configuration list for PBXNativeTarget "adventofcode1" */;
+			buildConfigurationList = 7D37CE9021B367EE00ADDDA7 /* Build configuration list for PBXNativeTarget "AoC-2018-1" */;
 			buildPhases = (
 				7D37CE8521B367EE00ADDDA7 /* Sources */,
 				7D37CE8621B367EE00ADDDA7 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = adventofcode1;
+			name = "AoC-2018-1";
 			productName = adventofcode1;
-			productReference = 7D37CE8921B367EE00ADDDA7 /* adventofcode1 */;
+			productReference = 7D37CE8921B367EE00ADDDA7 /* AoC-2018-1 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7D37CE8421B367EE00ADDDA7 /* Build configuration list for PBXProject "adventofcode1" */;
+			buildConfigurationList = 7D37CE8421B367EE00ADDDA7 /* Build configuration list for PBXProject "AoC-2018-1" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7D37CE8821B367EE00ADDDA7 /* adventofcode1 */,
+				7D37CE8821B367EE00ADDDA7 /* AoC-2018-1 */,
 			);
 		};
 /* End PBXProject section */
@@ -262,7 +262,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7D37CE8421B367EE00ADDDA7 /* Build configuration list for PBXProject "adventofcode1" */ = {
+		7D37CE8421B367EE00ADDDA7 /* Build configuration list for PBXProject "AoC-2018-1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7D37CE8E21B367EE00ADDDA7 /* Debug */,
@@ -271,7 +271,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7D37CE9021B367EE00ADDDA7 /* Build configuration list for PBXNativeTarget "adventofcode1" */ = {
+		7D37CE9021B367EE00ADDDA7 /* Build configuration list for PBXNativeTarget "AoC-2018-1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7D37CE9121B367EE00ADDDA7 /* Debug */,
